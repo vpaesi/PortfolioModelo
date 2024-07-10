@@ -1,6 +1,21 @@
-Olá! Esse é um projeto de modelo de portfolio.
-A criação deste projeto se deu através de alguns cursos da Alura, são eles:
-- Curso HTML e CSS: cabeçalho, footer e variáveis CSS
-- Curso HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags 
-- Curso HTML e CSS: Classes, posicionamento e Flexbox
-- Curso HTML e CSS: trabalhando com responsividade e publicação de projetos
+```
+
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Vitória de Camargo
+
+### Linkedin: https://www.linkedin.com/in/vpaesi/
+
+```
